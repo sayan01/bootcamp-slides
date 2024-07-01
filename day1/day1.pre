@@ -1,0 +1,36 @@
+$ MAD 1 Bootcamp
+
+# Try to connect to wifi
+In Wifi, find iitmwifi network
+Put Identity/Username: ic39224
+Password: D!qW&8i*kuy
+Let us know if any issues
+
+# Resources
+Go to
+@http://boot.sayn.work http://boot.sayn.work
+
+# Day 1
+- UI Design
+- DB Design
+- Project Structure
+
+# Project Structure
+- Create a new folder
+- Python (venv)
+- git
+- jinja, flask-sqlalchemy, etc
+
+# Day 1
+- Jinja template basics
+- Flask basics
+- DB Design
+- Login Page, Register Page
+- Home Page basics
+
+# Day 2
+- SQLAlchemy (ORM)
+- routes
+- config.py
+- jinja constructs
+- sessions and auth

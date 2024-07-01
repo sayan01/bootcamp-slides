@@ -1,0 +1,52 @@
+$ MAD1 Bootcamp
+
+$ Day 5
+
+# Agenda
+- Products CRUD
+- User Home Page and Search
+- Add to Cart
+- Buy Cart
+- PDF Printing, Out of Stock, Flash colors
+- Basic Javascript
+
+# Tentative Timeline
+1000 - 1130 - User Home Page
+1130 - 1200 - Add to Cart
+1200 - 1230 - Flash Colors, Out of Stock
+1230 - 1400 - Lunch Break
+1400 - 1530 - Remove Cart, Update Cart, Checkout
+1530 - 1545 - My Orders Page Hands-on
+1545 - 1600 - Tea Break
+1600 - 1645 - Search
+1645 - 1700 - PDF Printing, Basic Javascript
+
+# Resources
+@https://www.akto.io/academy/get-vs-post GET vs POST, when to use which
+@https://stackoverflow.com/questions/46585/when-do-you-use-post-and-when-do-you-use-get Stack Overflow - when to use GET vs POST
+@https://developer.mozilla.org/en-US/docs/Glossary/MVC#:~:text=MVC%20(Model%2DView%2DController,of%20labor%20and%20improved%20maintenance. Model View Controller
+@https://flask.palletsprojects.com/en/2.3.x/patterns/flashing/ Flask Message Flashing Documentation
+@https://softwareengineering.stackexchange.com/questions/306878/how-does-an-product-order-payment-works-during-a-race-condition Race Conditions in Online Ordering
+@https://www.techtarget.com/whatis/definition/fuzzy-search Fuzzy Search and Levenshtein distance
+@https://www.chartjs.org/ Chart.js Documentation (Please dont use matplotlib)
+
+# To Do
+- Make the frontend UI unique and better
+- Add features of your own
+- Debug Debug Debug, you will get a lot of errors
+- Polish your **grocery** app as much as possible
+
+# Video-enabled Learning Actions
+@https://www.youtube.com/watch?v=7qWQFuB9jx4&list=PLinT_qjAT3ozGQgNYRARcjYLxlRkcLoQI&index=8 Video Resource (Day 7 Video of Online Bootcamp)
+Please watch the video and understand and implement the following concepts:
+- What is the static folder in Flask?
+- How to export csv from data
+- How to use Chart.js to show beautiful charts
+You can also refer to other videos in the playlist for help/revise any other topics
+@https://www.youtube.com/playlist?list=PLinT_qjAT3ozGQgNYRARcjYLxlRkcLoQI playlist
+
+# Assignment
+- Finish your **grocery** app and demonstrate it live on Monday!
+- Prizes? for good projects
+
+$ All the Best!

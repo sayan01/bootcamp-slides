@@ -1,0 +1,44 @@
+$ MAD1 Project Bootcamp
+
+$ Day 3
+
+# Agenda
+- Password Hashing and Werkzeug
+- Navbar in layout
+- Profile Page Design
+- Update Profile Controllers
+
+# Tentative Schedule
+- 10 - 11 - Password Hashing and Werkzeug
+- 11 - 12 - Navbar Design and layout
+- 12 - 12:30 - Profile Page Design Handson
+- 12:30 - 14 - Lunch Break
+- 14 - 15 - Designing Profile Page and Update Profile
+- 15 - 16 - Conditional Navbar
+- 16 - 16:30 - Break
+- 16:30 - 17 - Doubts
+
+# Password Hashing
+- Why we need hashing?
+@https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8ZtInClXe1Q&sa=D&source=editors&ust=1718885681887564&usg=AOvVaw3xsU0jDTMtbjPOTNxNupp6 how not to store passwords (video)
+@https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqgpsIBLvrGY&sa=D&source=editors&ust=1718885681887647&usg=AOvVaw0ygJ5TkyuUCRiV0qeKEMdH password storing methods tierlist (video)
+- What are we going to use?
+@https://werkzeug.palletsprojects.com/en/2.3.x/utils/#werkzeug.security.generate_password_hash werkzeug create_password_hash and generate_password_hash (docs)
+
+# Navbar
+- why navbar?
+- lets user find a familiar way to reach other links
+@https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works bootstrap navbar documentation
+-why conditional navbar?
+dont show user something they cant access
+
+# Profile Page
+- lets user see their logged in user details
+- let them change their details
+- nice APIs!
+@https://www.dicebear.com/how-to-use/http-api/ dice bear api
+
+# Making Homepage Frontend
+- Try to come up with unique and innovative designs
+- dont worry about backend and database
+- practice HTML CSS for designing

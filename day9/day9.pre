@@ -1,0 +1,47 @@
+$ MAD 1 Project Bootcamp
+
+$ Day 9
+
+# Agenda
+- Optimizations
+- Deployment
+- Gunicorn
+- Heroku
+- Pythonanywhere
+- Any VPS
+- System Design
+
+# Tentative Timeline
+- 1000 - 1100 Optimizations and Gunicorn
+- 1100 - 1200 Deploying on different Platforms
+- 1200 - 1230 System Design and Architecture
+
+# Resources
+@https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfU9b7frZX_c&sa=D&source=editors&ust=1719408771238761&usg=AOvVaw35_FsTTAcuCg99A7MiA67B Do Not Use Int IDs in Your API
+@https://www.google.com/url?q=https://serverfault.com/questions/220046/why-is-setting-nginx-as-a-reverse-proxy-a-good-idea&sa=D&source=editors&ust=1719408771238843&usg=AOvVaw2NOuTJ8cHnsOS46m0uJHPw Why use nginx as Reverse Proxy?
+@https://www.google.com/url?q=https://gunicorn.org/&sa=D&source=editors&ust=1719408771238906&usg=AOvVaw0yxmcd5Uio-aUTOzItMJam Gunicorn
+@https://www.google.com/url?q=https://blog.ironboundsoftware.com/2016/06/27/faster-flask-need-gunicorn/&sa=D&source=editors&ust=1719408771238964&usg=AOvVaw3t_yCFlX01v8qmO8kdf9sT Why Gunicorn
+@https://www.google.com/url?q=https://www.wired.com/2015/11/how-instagram-solved-its-justin-bieber-problem/&sa=D&source=editors&ust=1719408771238622&usg=AOvVaw1x9s66ZjYdIpcFufaN0I4u The Justin Bieber Problem
+@https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/ System Design
+
+# Deployment Platforms
+@https://www.pythonanywhere.com/ Python Anywhere (Free Python Hosting)
+@https://www.heroku.com/ Heroku - Paid PaaS (environment preconfigured)
+VPS Providers:
+@https://www.digitalocean.com/ Digital Ocean - easier to config, expensive
+@https://aws.amazon.com/ AWS - Cheaper and more robust, terse
+@https://azure.microsoft.com/en-in Azure - Free Credits at start
+and many others
+
+# What next? (Technologically)
+- MAD2 Tech Stack, full stack application
+- Other components such as celery for backend tasks
+- redis for caching and in-memory db
+- external APIs, Mail clients
+- Integrating multiple tech stacks together?
+
+# What next? (Deployment)
+To learn more about deployment, cloud and CI/CD and devops, most important
+prerequisite is System Commands
+
+$ Thats all

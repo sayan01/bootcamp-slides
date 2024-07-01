@@ -1,0 +1,44 @@
+$ MAD 1 Project Bootcamp
+
+$ Day 4
+
+# Agenda
+- Admin Dashboard
+- CRUD
+- Categories
+- Products
+- Search Bar
+
+# Tentative Schedule
+- 1000 - 1100 - Admin Dashboard Design
+- 1100 - 1200 - What is CRUD, CRUD on users
+- 1200 - 1230 - Make add Categories Page Handson
+- 1230 - 1400 - Lunch Break
+- 1400 - 1500 - Categories CRUD
+- 1500 - 1515 - Categories CRUD Handson
+- 1515 - 15:30 - Products List Handson
+- 1530 - 1600 - Products CRUD
+- 1600 - 1630 - Snacks Break
+- 1630 - 1700 - Doubts
+
+# Admin Dashboard
+- Why a separate Page
+- How to protect the page from unauthorized access
+- @admin_required decorator
+- Show CRUD of Users, Categories, Products
+- Let admin delete users
+
+# Categories CRUD
+- List Categories
+- Add Categories
+- Edit Categories
+- Delete Categories
+- Add doesn't need id, others do
+
+# Products CRUD
+- "Open" a Category
+- List Products of each Category inside that Category page
+- Add Products in that Category
+- Edit the listed Products
+- Delete the listed Products with confirmation
+- Check if categories main page shows increase in product count

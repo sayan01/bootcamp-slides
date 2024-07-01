@@ -1,0 +1,36 @@
+$ MAD 1 Bootcamp
+
+$ Day 7
+
+# Tenative Timeline
+- 1000 - 1230 - Project Expo
+- 1230 - 1400 - Lunch Break
+- 1400 - 1600 - New Project Discussion
+- 1600 - 1630 - Tea Break
+- 1630 - 1700 - ChartJS
+
+# Problem Statement
+@https://docs.google.com/document/u/1/d/e/2PACX-1vQpC1dcw3suVePh-AciGbgxETnvIJv6c1N1qwjCSfFqX1HZ_HlXjJxS8RYuUHfTjKTHRd1c7Xx6Ytw-/pub link
+Influencer and Sponsor Management
+- Sponsor can make multiple campaigns
+- Each campaign can have multiple ad requests
+- Sponsor can search influencers and request them to do ad
+- Influencer can search public campaigns and request to do ad
+- They can message each other over each ad (negotiation)
+- Progress of Campaigns shown
+- Rating
+
+# Tables
+- User for all general user details - name, username and passhash
+- Sponsor for all sponsor specific details like industry, fkey to user
+- Influencer for influencer specific details like reach, fkey to user
+- Campaign - creator = sponsor (fkey) (1:M relationship)
+- Ad Request - fkey to campaign and influencer (1:M relation)
+- Message (join table, M:N rel) - user.id, ad.id (fkeys), msg, time
+- Rating - from(sponsor), to(influencer), rating, review, time
+
+# ChartJS
+@https://www.chartjs.org/ documentation
+Try out the basic 'getting started' example
+Then explore all the `samples` and get inspired
+@https://www.chartjs.org/docs/latest/samples/information.html samples
